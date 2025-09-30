@@ -56,8 +56,8 @@
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Lseojeong&show_icons=true&theme=radical)
-![Streak](https://streak-stats.demolab.com?user=Lseojeong&theme=radical&hide_border=true)
+| ![Stats](https://github-readme-stats.vercel.app/api?username=Lseojeong&show_icons=true&theme=radical) | ![Streak](https://streak-stats.demolab.com?user=Lseojeong&theme=radical&hide_border=true) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 </div>
 
