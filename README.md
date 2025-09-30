@@ -2,9 +2,8 @@
 
 <br>
 
-<div align="center">
 
-## About ME
+## 🍀 About Me
 단순히 보이는 것을 넘어서 보이는 것을 넘어서  의미 있는 경험을 만들어가는 프론트엔드 개발자입니다.
 </div>
 
