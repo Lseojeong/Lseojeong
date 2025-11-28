@@ -17,9 +17,7 @@
 
 **Styling & Animation**  
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge)
-![Emotion](https://img.shields.io/badge/Emotion-DB7093?logo=styledcomponents&logoColor=white&style=for-the-badge)
 ![Styled-Components](https://img.shields.io/badge/Styled_Components-DB7093?logo=styledcomponents&logoColor=white&style=for-the-badge)
-![FramerMotion](https://img.shields.io/badge/Framer_Motion-0055FF?logo=framer&logoColor=white&style=for-the-badge)
 
 **Dev Tools**  
 ![Storybook](https://img.shields.io/badge/Storybook-FF4785?logo=storybook&logoColor=white&style=for-the-badge)
