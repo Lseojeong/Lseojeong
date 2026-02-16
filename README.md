@@ -35,8 +35,6 @@
 
 ## 📈 깃허브 통계
 
-## 📈 깃허브 통계
-
 <div align="center">
   <table>
     <tr>
